@@ -1,0 +1,16 @@
+{
+  "name": "parfait-page",
+  "version": "1.0.0",
+  "description": "Parfait Landing Page - Premium Design",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["landing-page", "express", "parfait"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
