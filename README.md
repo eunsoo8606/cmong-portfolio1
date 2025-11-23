@@ -86,6 +86,5 @@ parfait-page/
 
 ## 📧 문의
 
-- Email: info@dongjindam.com
-- Tel: +82-2-1234-5678
+- Email: eunsoo8606@gmail.com
 - Address: Seoul, Korea
