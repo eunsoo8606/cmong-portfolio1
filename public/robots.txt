@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow sensitive directories
+Disallow: /node_modules/
+Disallow: /.git/
+
+# Sitemap location
+Sitemap: https://dongjindam.com/sitemap.xml
